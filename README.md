@@ -1,4 +1,4 @@
-# Fare Enough ~ The Price of Oversight
+# FareEnough ~ The Price of Oversight
 
 -----
 ## Introduction
